@@ -1,17 +1,13 @@
 <h1 align="center">Bonjour 👋, Bienvenue sur mon profil Github</h1>
 <h3 align="center">Terrade Antoine alias TonyLaPoche un Passionner du devs</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tonylapoche&label=Profile%20views&color=0e75b6&style=flat" alt="tonylapoche" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonylapoche" alt="tonylapoche" /></a> </p>
-
 - 🔭 Je suis travaille actuellement sur [Un projet de Pokedex (front - Angular)](https://github.com/TonyLaPoche/Pokedex-Angular)
 
 - 🌱 Actuellement j'apprend **Angular & Node.js**
 
 - 🔭 Par la suite, j'ai prévue d'attaquer : **Une BDD home-made ( back - Node.js )**
 
-- Afin de par la suite crée **Mon Porte-folio (fullstack Js - Angular - Node.js)**
+- Enfin crée **Mon Porte-folio (fullstack Js - Angular - Node.js)**
 
 - 👨‍💻 Retrouvé tout mes projets : [https://github.com/TonyLaPoche?tab=repositories](https://github.com/TonyLaPoche?tab=repositories)
 
