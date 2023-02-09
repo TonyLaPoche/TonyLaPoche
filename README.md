@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">📚 En ce moment je suis un projet de ( Fullstack - React | Node ) avec un ami. [teasing : WebApp sur les WebToon] )</p>
+<p align="left">📚 En ce moment je travaille sur un projet de ( Fullstack - React | Node ) avec un ami. [teasing : WebApp sur les WebToon] )</p>
 
 ###
 
