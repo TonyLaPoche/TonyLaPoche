@@ -85,9 +85,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="./workflows/test.png"  />
-</div>
-
-###
