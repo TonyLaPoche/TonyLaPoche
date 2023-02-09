@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🌱 Actuellement j'apprend à développer des API Rest avec Node.js en les solicitants sur des views en React</p>
+<p align="left">🌱 Actuellement j'apprends à développer des API Rest avec Node.js en les solicitant sur des views en React</p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">🎯 Objectif professionnel : Travailler dans la tech et avoir chaque jours de nouvelle chose à apprendre avec une équipe souder et pédagogue.</p>
+<p align="left">🎯 Objectif professionnel : Travailler dans la tech et avoir chaque jour de nouvelles choses à apprendre avec une équipe soudée et pédagogue.</p>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="center">J'ai expérimenter !</h2>
+<h2 align="center">J'ai expérimenté !</h2>
 
 ###
 
@@ -90,7 +90,7 @@
 
 <br clear="both">
 
-<p align="left">Mon premier projet solo en full autodidacte. <br>J'ai utilisé React et Rédux en me basant sur la vidéo de "Science étonnante" sur le principe de la théorie du chaos que peu apporter le "Jeu De La Vie"<br><br>Testable ici : https://jdlv-tony-react-v4.surge.sh</p>
+<p align="left">Mon premier projet solo en full autodidacte. <br>J'ai utilisé React et Rédux en me basant sur la vidéo de "Science étonnante" sur le principe de la théorie du chaos que peut apporter le "Jeu De La Vie"<br><br>Testable ici : https://jdlv-tony-react-v4.surge.sh</p>
 
 ###
 
@@ -120,15 +120,15 @@
 
 <br clear="both">
 
-<p align="left">Petit projet d'auto-initiation Angular de Simon Dieny (vidéaste formateur au langage du Web). <br>J'ai appris tout les rudiment de AngularJS via cette personne et ce projet !</p>
+<p align="left">Petit projet d'auto-initiation Angular de Simon Dieny (vidéaste formateur au langage du Web). <br>J'ai appris tous les rudiments de AngularJS via cette personne et ce projet !</p>
 
 ###
 
-<h4 align="center">Et bien d'autre encore et à venir !</h4>
+<h4 align="right">Et bien d'autres encore et à venir !</h4>
 
 ###
 
-<h2 align="center">Mes atomes crochu <3</h2>
+<h2 align="center">Mes atomes crochus <3</h2>
 
 ###
 
@@ -142,7 +142,7 @@
 
 ###
 
-<h3 align="center">Merci d'avoir prit le temps de visionner ce profil Github</h3>
+<h3 align="center">Merci d'avoir pris le temps de visionner ce profil Github</h3>
 
 ###
 
