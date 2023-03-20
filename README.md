@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">📫 Comment me contacter ? <br>Par Mail : terrade.antoine.pro@gmail.com<br>Via Discord : TonyPocketSan#9907<br>Linkedin : https://www.linkedin.com/in/antoine-terrade-web/</p>
+<p align="left">📫 Comment me contacter ? <br>Par Mail : terrade.antoine.pro@gmail.com<br>Via Discord : TonyPocketSan#9907<br>Linkedin : https://www.linkedin.com/in/antoine-terrade-web/<br> Mon portfolio: https://terrade-antoine.web.app/#contact</p>
 
 ###
 
