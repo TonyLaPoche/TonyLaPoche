@@ -90,7 +90,7 @@
 
 <br clear="both">
 
-<p align="left">Mon premier projet solo en full autodidacte. <br>J'ai utilisé React et Rédux en me basant sur la vidéo de "Science étonnante" sur le principe de la théorie du chaos que peut apporter le "Jeu De La Vie"<br><br>Testable ici : https://jdlv-tony-react-v4.surge.sh</p>
+<p align="left">Mon premier projet solo en full autodidacte. <br>J'ai utilisé React et Rédux en me basant sur la vidéo de "Science étonnante" sur le principe de la théorie du chaos que peut apporter le "Jeu De La Vie"<br><br>Testable ici : https://jdlv-pocket.web.app/</p>
 
 ###
 
