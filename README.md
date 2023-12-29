@@ -2,15 +2,15 @@
 
 ###
 
-<h3 align="center">Terrade Antoine alias TonyLaPoche un Passionner du devs</h3>
+<h3 align="center">Terrade Antoine alias TonyLaPoche, un passionné du dev</h3>
 
 ###
 
-<h2 align="left">A propos de moi</h2>
+<h2 align="left">À propos de moi</h2>
 
 ###
 
-<p align="left">✨ Développeur fullstack.</p>
+<p align="left">✨ Développeur fullstack, full remote, passionné</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">📚 En ce moment je travaille sur un projet de ( Fullstack - Next.js & Node ) </p>
+<p align="left">📚 En ce moment, je travaille sur un projet (Fullstack - Next.js) pour une très bonne startup en parallèle de mes études</p>
 
 ###
 
@@ -26,11 +26,15 @@
 
 ###
 
-<p align="left">🎲 Fun fact: Seul on va vite, ensemble on ira plus loin !</p>
+<p align="left">💌 Objectif de carrière : Être apte à gérer une équipe, avoir suffisamment d'expérience afin de m'élever d'élève à maître et l'ultime souhait serait de créer quelque chose qui marquera notre histoire.</p>
 
 ###
 
-<p align="left">📫 Comment me contacter ? <br>Par Mail : terrade.antoine.pro@gmail.com<br>Via Discord : TonyPocketSan#9907<br> <a href='https://www.linkedin.com/in/antoine-terrade-web/'>Linkedin</a> <br> Visitez mon <a href='https://terrade-antoine.web.app/#contact'>portfolio</a></p>
+<p align="left">🎲 Fun fact : Seul on va vite, ensemble on va plus loin !</p>
+
+###
+
+<p align="left">📫 Comment me contacter ? <br>Par mail : terrade.antoine.pro@gmail.com<br>Via Discord : TonyPocketSan#9907<br> <a href='https://www.linkedin.com/in/antoine-terrade-web/'>LinkedIn</a> <br> Visitez mon <a href='https://terrade-antoine.web.app/#contact'>portfolio</a></p>
 
 ###
 
@@ -90,17 +94,17 @@
 
 <br clear="both">
 
-<p align="left">Mon premier projet solo en full autodidacte. <br>J'ai utilisé React et Rédux en me basant sur la vidéo de "Science étonnante" sur le principe de la théorie du chaos que peut apporter le "Jeu De La Vie"<br><br>Testable ici : https://jdlv-pocket.web.app/</p>
+<p align="left">Mon premier projet solo en autodidacte. <br>J'ai utilisé React et Redux en me basant sur la vidéo de "Science Étonnante" sur le principe de la théorie du chaos que peut apporter le "Jeu de la Vie".<br><br>Testable ici : https://jdlv-pocket.web.app/</p>
 
 ###
 
-<h4 align="center">Puissance4 : https://github.com/TonyLaPoche/-en-cours-Puissance-4-Angular</h4>
+<h4 align="center">Puissance 4 : https://github.com/TonyLaPoche/-en-cours-Puissance-4-Angular</h4>
 
 ###
 
 <br clear="both">
 
-<p align="left">Vous vous souvenez de votre premier test technique ? <br>eh bien moi j'en ai fait un repos (en enlevant tout ce qui concerne l'entreprise bien entendu).<br>Anecdote : dès la réception du test j'avais zéro connaissance en Angular et j'ai eu 7 jours pour pondre un projet fini.. (pour un stage..de junior... m'ouais)</p>
+<p align="left">Vous souvenez-vous de votre premier test technique ? <br>eh bien, moi j'en ai fait un repo (en enlevant tout ce qui concerne l'entreprise, bien entendu).<br>Anecdote : dès la réception du test, je n'avais aucune connaissance en Angular et j'ai eu 7 jours pour pondre un projet fini.. (pour un stage...de junior... m'ouais)</p>
 
 ###
 
@@ -110,7 +114,7 @@
 
 <br clear="both">
 
-<p align="left">Petit projet d'auto-initiation à Next et TypeScript, manipulant une API Rest au travers de l'univers de Rick & Morty la série</p>
+<p align="left">Petit projet d'auto-initiation à Next et TypeScript, manipulant une API Rest à travers de l'univers de Rick & Morty la série</p>
 
 ###
 
@@ -120,7 +124,7 @@
 
 <br clear="both">
 
-<p align="left">Petit projet d'auto-initiation Angular de Simon Dieny (vidéaste formateur au langage du Web). <br>J'ai appris tous les rudiments de AngularJS via cette personne et ce projet !</p>
+<p align="left">Petit projet d'auto-initiation Angular de Simon Dieny (vidéaste formateur au langage du Web). <br>J'ai appris tous les rudiments d'AngularJS grâce à cette personne et ce projet !</p>
 
 ###
 
