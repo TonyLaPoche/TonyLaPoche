@@ -10,15 +10,15 @@
 
 ###
 
-<p align="left">✨ Développeur junior depuis fin 2021.</p>
+<p align="left">✨ Développeur fullstack.</p>
 
 ###
 
-<p align="left">🌱 Actuellement j'apprends à développer des API Rest avec Node.js en les solicitant sur des views en React</p>
+<p align="left">🌱 Actuellement en alternance chez [Toltek](https://www.linkedin.com/company/toltek-co/) en tant que développeur fullstack</p>
 
 ###
 
-<p align="left">📚 En ce moment je travaille sur un projet de ( Fullstack - React | Node ) avec un ami. [teasing : WebApp sur les WebToon] )</p>
+<p align="left">📚 En ce moment je travaille sur un projet de ( Fullstack - Next.js & Node ) </p>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">📫 Comment me contacter ? <br>Par Mail : terrade.antoine.pro@gmail.com<br>Via Discord : TonyPocketSan#9907<br>Linkedin : https://www.linkedin.com/in/antoine-terrade-web/<br> Mon portfolio: https://terrade-antoine.web.app/#contact</p>
+<p align="left">📫 Comment me contacter ? <br>Par Mail : terrade.antoine.pro@gmail.com<br>Via Discord : TonyPocketSan#9907<br>[Linkedin](https://www.linkedin.com/in/antoine-terrade-web/)<br> Visitez mon [portfolio](https://terrade-antoine.web.app/#contact)</p>
 
 ###
 
