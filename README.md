@@ -84,54 +84,6 @@
 
 ###
 
-<h2 align="center">Mes Projets</h2>
-
-###
-
-<h4 align="center">Jeu de la Vie : https://github.com/TonyLaPoche/JDLV-React</h4>
-
-###
-
-<br clear="both">
-
-<p align="left">Mon premier projet solo en autodidacte. <br>J'ai utilisé React et Redux en me basant sur la vidéo de "Science Étonnante" sur le principe de la théorie du chaos que peut apporter le "Jeu de la Vie".<br><br>Testable ici : https://jdlv-pocket.web.app/</p>
-
-###
-
-<h4 align="center">Puissance 4 : https://github.com/TonyLaPoche/-en-cours-Puissance-4-Angular</h4>
-
-###
-
-<br clear="both">
-
-<p align="left">Vous souvenez-vous de votre premier test technique ? <br>eh bien, moi j'en ai fait un repo (en enlevant tout ce qui concerne l'entreprise, bien entendu).<br>Anecdote : dès la réception du test, je n'avais aucune connaissance en Angular et j'ai eu 7 jours pour pondre un projet fini.. (pour un stage...de junior... m'ouais)</p>
-
-###
-
-<h4 align="center">Rick And Morty : https://github.com/TonyLaPoche/initiation-TypeScript-Next-API</h4>
-
-###
-
-<br clear="both">
-
-<p align="left">Petit projet d'auto-initiation à Next et TypeScript, manipulant une API Rest à travers de l'univers de Rick & Morty la série</p>
-
-###
-
-<h4 align="center">Pokedex : https://github.com/TonyLaPoche/initiation-angular-pokemon-app</h4>
-
-###
-
-<br clear="both">
-
-<p align="left">Petit projet d'auto-initiation Angular de Simon Dieny (vidéaste formateur au langage du Web). <br>J'ai appris tous les rudiments d'AngularJS grâce à cette personne et ce projet !</p>
-
-###
-
-<h4 align="right">Et bien d'autres encore et à venir !</h4>
-
-###
-
 <h2 align="center">Mes atomes crochus <3</h2>
 
 ###
