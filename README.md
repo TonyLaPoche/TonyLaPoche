@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🌱 Actuellement en alternance chez [Toltek](https://www.linkedin.com/company/toltek-co/) en tant que développeur fullstack</p>
+<p align="left">🌱 Actuellement en alternance chez <a href='https://www.linkedin.com/company/toltek-co/'>Toltek</a> en tant que développeur fullstack</p>
 
 ###
 
