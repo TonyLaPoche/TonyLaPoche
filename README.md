@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Développeur fullstack, full remote, passionné</p>
+<p align="left">✨ Développeur fullstack, full remote & full passionné</p>
 
 ###
 
