@@ -18,11 +18,11 @@
 
 ###
 
-<p align="left">📚 En ce moment, je travaille sur un projet (Fullstack - Next.js) pour une très bonne startup en parallèle de mes études</p>
+<p align="left">📚 En ce moment, je travaille sur un projet (Fullstack - Next.js) pour startup en parallèle de mes études</p>
 
 ###
 
-<p align="left">🎯 Objectif professionnel : Travailler dans la tech et avoir chaque jour de nouvelles choses à apprendre avec une équipe soudée et pédagogue.</p>
+<p align="left">🎯 Objectif professionnel : Travailler dans la tech et avoir chaque jours de nouvelles choses à apprendre avec une équipe soudée et pédagogue.</p>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">🎲 Fun fact : Seul on va vite, ensemble on va plus loin !</p>
+<p align="left">🎲 Fun fact : Seul on va vite, ensemble on va loin !</p>
 
 ###
 
