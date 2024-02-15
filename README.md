@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Terrade Antoine alias TonyLaPoche, un passionné du dev</h3>
+<h3 align="center">Terrade Antoine alias TonyLaPoche, un développeur curieux et touche à tout !</h3>
 
 ###
 
