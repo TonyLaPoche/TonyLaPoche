@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Terrade Antoine alias TonyLaPoche, un développeur curieux et touche à tout !</h3>
+<h3 align="center">Terrade Antoine alias Tony LaPoche, un développeur curieux et touche à tout !</h3>
 
 ###
 
@@ -14,19 +14,19 @@
 
 ###
 
-<p align="left">🌱 Actuellement en alternance chez <a href='https://www.linkedin.com/company/toltek-co/'>Toltek</a> en tant que développeur fullstack</p>
+<p align="left">🌱 Actuellement en recherche d'emplois (CDI | CDD | Freelance) </p>
 
 ###
 
-<p align="left">📚 En ce moment, je travaille sur un projet (Fullstack - Next.js) pour startup en parallèle de mes études</p>
+<p align="left">📚 En ce moment, je travaille sur un projet perso (Angular - Springboot) en parallèle de mes études</p>
 
 ###
 
-<p align="left">🎯 Objectif professionnel : Travailler dans la tech et avoir chaque jours de nouvelles choses à apprendre avec une équipe soudée et pédagogue.</p>
+<p align="left">🎯 Objectif professionnel : Avoir des collègues inspirant et moteur afin de continuer de m'élever dans voie du dev, le tout si possible dans des projet vivifiant !</p>
 
 ###
 
-<p align="left">💌 Objectif de carrière : Être apte à gérer une équipe, avoir suffisamment d'expérience afin de m'élever d'élève à maître et l'ultime souhait serait de créer quelque chose qui marquera notre histoire.</p>
+<p align="left">💌 Objectif de carrière : Ne pas perdre l'enthousiasme et l'engouement actuels que j'ai chaque jour à apprendre de nouvelles choses. </p>
 
 ###
 
@@ -43,6 +43,7 @@
 ###
 
 <div align="center">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
@@ -50,7 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" width="52" alt="sequelize logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
@@ -89,11 +90,11 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="spring logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" width="52" alt="nodejs logo"  />
 </div>
 
 ###
