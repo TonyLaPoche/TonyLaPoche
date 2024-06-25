@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">🎯 Objectif professionnel : Avoir des collègues inspirant et moteur afin de continuer de m'élever dans voie du dev, le tout si possible dans des projet vivifiant !</p>
+<p align="left">🎯 Objectif professionnel : Avoir des collègues inspirant et moteur afin de continuer de m'élever dans voie du dev, le tout si possible dans des projets vivifiant !</p>
 
 ###
 
