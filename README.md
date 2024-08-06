@@ -10,15 +10,15 @@
 
 ###
 
-<p align="left">✨ Développeur fullstack, full remote & full passionné</p>
+<p align="left">✨ Développeur Angular / Java | Junior</p>
 
 ###
 
-<p align="left">🌱 Actuellement en recherche d'emplois (CDI | CDD | Freelance) </p>
+<p align="left">🌱 Actuellement en recherche d'emplois (CDI | CDD) </p>
 
 ###
 
-<p align="left">📚 En ce moment, je travaille sur un projet perso (Angular - Springboot) en parallèle de mes études</p>
+<p align="left">📚 En ce moment, je me perfectionne sur les technos Angular & Springboot en parallèle de mes études</p>
 
 ###
 
