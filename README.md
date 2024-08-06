@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Terrade Antoine alias Tony LaPoche, un développeur curieux et touche à tout !</h3>
+<h3 align="center">Terrade Antoine alias Tony La Poche, développeur junior</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Développeur Angular / Java | Junior</p>
+<p align="left">✨ Développeur Angular / Java </p>
 
 ###
 
