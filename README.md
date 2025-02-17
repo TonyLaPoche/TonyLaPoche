@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Terrade Antoine alias Tony La Poche, développeur junior</h3>
+<h3 align="center">Terrade Antoine alias Tony La Poche, développeur Frontend</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Développeur Angular / Java </p>
+<p align="left">✨ Développeur Angular / Capacitor / Ionic </p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">📚 En ce moment, je me perfectionne sur les technos Angular & Springboot en parallèle de mes études</p>
+<p align="left">📚 En ce moment, Freelance chez [Malt.fr](https://www.malt.fr/profile/tonylapoche) </p>
 
 ###
 
