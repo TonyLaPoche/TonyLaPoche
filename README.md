@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">📚 En ce moment, Freelance chez [Malt.fr](https://www.malt.fr/profile/tonylapoche) </p>
+<p align="left">📚 En ce moment, Freelance chez <a href="https://www.malt.fr/profile/tonylapoche">Malt.fr</a></p>
 
 ###
 
