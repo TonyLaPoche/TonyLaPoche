@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Terrade Antoine alias Tony La Poche, développeur Frontend</h3>
+<h3 align="center">Terrade Antoine alias Tony La Poche, développeur Frontend Freelance</h3>
 
 ###
 
@@ -10,23 +10,31 @@
 
 ###
 
-<p align="left">✨ Développeur Angular / Capacitor / Ionic </p>
+<p align="left">✨ Développeur spécialisé en <strong>React, Next.js, Angular, Capacitor</strong></p>
 
 ###
 
-<p align="left">🌱 Actuellement en recherche d'emplois (CDI | CDD) </p>
+<p align="left">🎓 Freelance sur <a href="https://www.malt.fr/profile/tonylapoche">Malt.fr</a></p>
 
 ###
 
-<p align="left">📚 En ce moment, Freelance chez <a href="https://www.malt.fr/profile/tonylapoche">Malt.fr</a></p>
+<p align="left">🎮 Passionné par le développement d'applications mobiles avec <strong>React Native (Expo) et Angular (Capacitor)</strong></p>
 
 ###
 
-<p align="left">🎯 Objectif professionnel : Avoir des collègues inspirant et moteur afin de continuer de m'élever dans voie du dev, le tout si possible dans des projets vivifiant !</p>
+<p align="left">⚙️ Ionic n'a plus de secret pour moi !</p>
 
 ###
 
-<p align="left">💌 Objectif de carrière : Ne pas perdre l'enthousiasme et l'engouement actuels que j'ai chaque jour à apprendre de nouvelles choses. </p>
+<p align="left">💼 Disponible pour des missions en full remote, mais ouvert au mode hybride.</p>
+
+###
+
+<p align="left">🎯 Objectif professionnel : Collaborer sur des projets stimulants avec des équipes inspirantes !</p>
+
+###
+
+<p align="left">💌 Objectif de carrière : Continuer à apprendre et évoluer dans l'univers du développement.</p>
 
 ###
 
@@ -34,7 +42,7 @@
 
 ###
 
-<p align="left">📫 Comment me contacter ? <br>Par mail : terrade.antoine.pro@gmail.com<br>Via Discord : TonyPocketSan#9907<br>Sur  <a href='https://www.linkedin.com/in/antoine-terrade-web/'>LinkedIn</a> <br> Vous souhaiter en savoir plus ? allez sur mon  <a href='https://antoineterrade.com'>portfolio</a></p>
+<p align="left">💌 Comment me contacter ? <br>Par mail : terrade.antoine.pro@gmail.com<br>Via Discord : TonyPocketSan#9907<br>Sur <a href='https://www.linkedin.com/in/antoine-terrade-web/'>LinkedIn</a> <br> Vous souhaitez en savoir plus ? Rendez-vous sur mon <a href='https://antoineterrade.com'>portfolio</a></p>
 
 ###
 
@@ -43,22 +51,16 @@
 ###
 
 <div align="center">
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angular logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" width="52" alt="ionic logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" width="52" alt="sequelize logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
 </div>
 
 ###
@@ -91,8 +93,8 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angular logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" width="52" alt="nodejs logo"  />
 </div>
 
