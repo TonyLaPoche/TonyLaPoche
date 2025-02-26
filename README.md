@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🎓 Freelance sur <a href="https://www.malt.fr/profile/tonylapoche">Malt.fr</a></p>
+<p align="left">🎓 Freelance sur <a href="https://www.malt.fr/profile/tonylapoche"><b>Malt.fr</b></a></p>
 
 ###
 
@@ -73,7 +73,7 @@
   <a href="https://www.linkedin.com/in/antoine-terrade-web/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.gg/zkeCnAsByF" target="_blank">
+  <a href="https://discord.gg/5vjQPseWrR" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
