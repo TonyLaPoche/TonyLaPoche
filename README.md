@@ -14,8 +14,9 @@
 
 ## 📲 Mes projets récents
 - [**Logic Division**](https://play.google.com/store/apps/details?id=com.antoineterrade.logicdivision) – Mini jeu mobile inspiré du Mastermind  
-- [**Planneo.ch**](https://planneo.ch) – Outil de gestion interne  
-- [**Quiz Vap**](https://tonylapoche.github.io/Quizz-VapStation/) – PWA en JS vanilla pour la formation produits  
+- [**Planneo.ch**](https://planneo.ch) – Outil de gestion interne planning pour petite PME  
+- [**Quiz Vap**](https://tonylapoche.github.io/Quizz-VapStation/) – PWA en JS vanilla pour la formation produits du vapotage
+- [**Battle Webp**]([https://tonylapoche.github.io/Quizz-VapStation/](https://battle-web.vercel.app/)) – PWA bataille navale custom en ligne
 - **Coloc Life (WIP)** – Application sociale pour faciliter la vie en colocation  
 
 ---
