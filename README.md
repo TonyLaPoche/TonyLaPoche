@@ -21,7 +21,7 @@ Le détail des projets est sur [antoineterrade.com](https://antoineterrade.com/)
 
 ## 📲 Mes créations
 
-La liste complète est sur **[Pocket](https://tonylapoche.github.io/Pockets-tools/)**.
+La liste complète est sur **[Pocket's tools](https://tonylapoche.github.io/Pockets-tools/)**.
 
 Quelques-unes à ouvrir directement :
 
